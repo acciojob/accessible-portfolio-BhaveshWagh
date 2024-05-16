@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+*{
+	text-align:center;
+}
+ul{
+	display:flex;
+	justify-content:space-between;
+	list-style:none;
+}
